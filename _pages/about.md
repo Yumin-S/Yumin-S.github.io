@@ -42,13 +42,13 @@ Core Modules: *Real function theory, functional analysis, mathematical statistic
 
 Projects Involved: *Hot spot analysis of copy number variation based on EM algorithm; overview of SEM and bayesian methods*
 
-## Programming Skills:
+## Programming Skills and Other:
 
 - Python and R: Advanced level
 - Scala, Java and SQL: Intermediate
 - Go, a board game: Proficient
 
-## Specific Research Interests:
+## Research Interests:
 
 - Bayesian statistics
 - Functional data analysis
