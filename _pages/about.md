@@ -12,7 +12,7 @@ I am looking for an opportunity to become a Ph.D. student doing statistics and/o
 
 My profile is as follows.
 
-### Industry Experience:
+## Industry Experience:
 
 *Jun 2021 - Jun 2022*  
 **Big Data R&D Engineer**  
@@ -24,7 +24,7 @@ Job description:
 
 2.Completion of daily distributed file storage and computing tasks using main components of Hadoop ecosystem like Spark.
 
-### Educaitonal Experience:
+## Educaitonal Experience:
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
@@ -42,19 +42,19 @@ Core Modules: *Real function theory, functional analysis, mathematical statistic
 
 Projects Involved: *Hot spot analysis of copy number variation based on EM algorithm; overview of SEM and bayesian methods*
 
-### Skills:
+## Programming Skills:
 
 - Python and R: Advanced level
 - Scala, Java and SQL: Intermediate
 - Go, a board game: Proficient
 
-### Specific Research Interests:
+## Specific Research Interests:
 
 - Bayesian statistics
 - Functional data analysis
 - Machine learning theory
 - Deep learning
 
-### Contact
+## Contact
 Email: yumin.sun@alumni.ucl.ac.uk  
 Tel: +86 17863152050
