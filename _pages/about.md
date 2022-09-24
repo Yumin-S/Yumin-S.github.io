@@ -12,7 +12,7 @@ I am looking for an opportunity to become a Ph.D. student doing statistics and/o
 
 My profile is as follows.
 
-## Industry Experience:
+## Industry Experience
 
 *Jun 2021 - Jun 2022*  
 **Big Data R&D Engineer**  
@@ -24,31 +24,31 @@ Job description:
 
 2.Completion of daily distributed file storage and computing tasks using main components of Hadoop ecosystem like Spark.
 
-## Educaitonal Experience:
+## Educaitonal Experience
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
 University College London (UCL), UK  
 
-Core Modules: *Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.*
+Core Modules: Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.
 
-Project Title: *Modeling elite athlete performance using Gaussian process ANOVA models (keywords: Gaussian process, MCMC, functional ANOVA)*
+Project Title: Modeling elite athlete performance using Gaussian process ANOVA models (keywords: Gaussian process, MCMC, functional ANOVA)
 
 *Sep 2015 - Jun 2019*  
 **BSc Statistics, GPA Top 10%**  
 Shandong University, China  
 
-Core Modules: *Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series. etc.*  
+Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series. etc.
 
-Projects Involved: *Hot spot analysis of copy number variation based on EM algorithm; overview of SEM and bayesian methods*
+Projects Involved: Hot spot analysis of copy number variation based on EM algorithm; overview of SEM and bayesian methods
 
-## Programming Skills and Other:
+## Programming Skills and Other
 
 - Python and R: Advanced level
 - Scala, Java and SQL: Intermediate
 - Go, a board game: Proficient
 
-## Research Interests:
+## Research Interests
 
 - Bayesian statistics
 - Functional data analysis
