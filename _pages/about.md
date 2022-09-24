@@ -24,7 +24,7 @@ Job description:
 
 2.Completion of daily distributed file storage and computing tasks using main components of Hadoop ecosystem like Spark.
 
-## Educaitonal Experience
+## Educational Experience
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
