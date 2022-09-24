@@ -16,7 +16,7 @@ My profile is as follows.
 
 *Jun 2021 - Jun 2022*  
 **Big Data R&D Engineer**  
-China UnionPay Data Service Co., Ltd.
+[China UnionPay Data Service Co., Ltd.](http://www.cupdata.com/index_en.aspx)
 
 Job description:
 
@@ -28,7 +28,7 @@ Job description:
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
-University College London (UCL), UK  
+[Department of Statistical Science, University College London (UCL)](https://www.ucl.ac.uk/statistics/), UK  
 
 Core Modules: Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.
 
@@ -36,7 +36,7 @@ Project Title: Modeling elite athlete performance using Gaussian process ANOVA m
 
 *Sep 2015 - Jun 2019*  
 **BSc Statistics, GPA Top 10%**  
-Shandong University, China  
+[School of Mathematics and Statistics, Shandong University](https://math.wh.sdu.edu.cn/English.htm), China  
 
 Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
 
