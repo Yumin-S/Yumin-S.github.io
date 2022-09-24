@@ -38,7 +38,7 @@ Project Title: Modeling elite athlete performance using Gaussian process ANOVA m
 **BSc Statistics, GPA Top 10%**  
 Shandong University, China  
 
-Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series. etc.
+Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
 
 Projects Involved: Hot spot analysis of copy number variation based on EM algorithm; overview of SEM and bayesian methods
 
