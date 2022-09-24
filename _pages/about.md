@@ -28,7 +28,7 @@ Job description:
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
-[Department of Statistical Science, University College London (UCL)](https://www.ucl.ac.uk/statistics/), UK  
+[Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), UK  
 
 Core Modules: Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.
 
