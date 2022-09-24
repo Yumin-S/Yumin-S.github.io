@@ -28,7 +28,7 @@ Job description:
 
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
-[Department of Statistical Science](https://www.ucl.ac.uk/statistics/), [University College London](https://www.ucl.ac.uk/), UK  
+[Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), UK  
 
 Core Modules: Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.
 
@@ -36,7 +36,7 @@ Project Title: Modeling elite athlete performance using Gaussian process ANOVA m
 
 *Sep 2015 - Jun 2019*  
 **BSc Statistics, GPA Top 10%**  
-[School of Mathematics and Statistics](https://math.wh.sdu.edu.cn/English.htm), [Shandong University](https://enipo.wh.sdu.edu.cn/), China  
+[School of Mathematics and Statistics, Shandong University](https://math.wh.sdu.edu.cn/English.htm), China  
 
 Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
 
