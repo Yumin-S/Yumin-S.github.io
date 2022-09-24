@@ -29,6 +29,7 @@ Job description:
 *Sep 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
 [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), UK  
+Supervisor: [Prof. Jim Griffin](https://www.ucl.ac.uk/statistics/people/professor-jim-griffin)
 
 Core Modules: Introduction to Data Science, applied bayesian methods, applied machine learning, graphical models, etc.
 
@@ -36,7 +37,8 @@ Project Title: Modeling elite athlete performance using Gaussian process ANOVA m
 
 *Sep 2015 - Jun 2019*  
 **BSc Statistics, GPA Top 10%**  
-[School of Mathematics and Statistics, Shandong University](https://math.wh.sdu.edu.cn/English.htm), China  
+[School of Mathematics and Statistics, Shandong University (Weihai)](https://math.wh.sdu.edu.cn/English.htm), China  
+Supervisor: [Dr. Xiaoqiang Wang](https://math.wh.sdu.edu.cn/info/1085/6016.htm)
 
 Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
 
