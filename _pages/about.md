@@ -36,7 +36,7 @@ Core Modules: Introduction to Data Science, applied bayesian methods, applied ma
 Project Title: Modeling elite athlete performance using Gaussian process ANOVA models (keywords: Gaussian process, MCMC, functional ANOVA)
 
 *Sep 2015 - Jun 2019*  
-**BSc Statistics, GPA 89.10/100**  
+**BSc Statistics, GPA 89.1/100**  
 [School of Mathematics and Statistics, Shandong University (Weihai)](https://math.wh.sdu.edu.cn/English.htm), China  
 Supervisor: [Dr. Xiaoqiang Wang](https://math.wh.sdu.edu.cn/info/1085/6016.htm)
 
