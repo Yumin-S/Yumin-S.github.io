@@ -37,7 +37,7 @@ Project Title: Modeling elite athlete performance using Gaussian process ANOVA m
 
 *Sept 2015 - June 2019*  
 **BSc Statistics, GPA 89.1/100**  
-[School of Mathematics and Statistics, Shandong University (Weihai)](https://math.wh.sdu.edu.cn/English.htm), China  
+[School of Mathematics and Statistics, Shandong University, Weihai(https://math.wh.sdu.edu.cn/English.htm), China  
 Supervisor: [Dr. Xiaoqiang Wang](https://math.wh.sdu.edu.cn/info/1085/6016.htm)
 
 Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
