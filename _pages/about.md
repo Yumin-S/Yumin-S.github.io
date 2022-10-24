@@ -16,7 +16,7 @@ My profile is as follows.
 
 *June 2021 - June 2022*  
 **Big Data R&D Engineer**  
-Research Institute, [China UnionPay Data Service Co., Ltd.](http://www.cupdata.com/index_en.aspx), China  
+Research Institute, [China UnionPay Data Service Co., Ltd](http://www.cupdata.com/index_en.aspx), China  
 
 Job description:
 
