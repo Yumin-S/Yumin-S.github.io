@@ -14,7 +14,7 @@ My profile is as follows.
 
 ## Industry Experience
 
-*Jun 2021 - Jun 2022*  
+*June 2021 - June 2022*  
 **Big Data R&D Engineer**  
 Research Institute, [China UnionPay Data Service Co., Ltd.](http://www.cupdata.com/index_en.aspx), China  
 
@@ -26,7 +26,7 @@ Job description:
 
 ## Educational Experience
 
-*Sep 2019 - Dec 2020*  
+*Sept 2019 - Dec 2020*  
 **MSc Data Science with Distinction**  
 [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), UK  
 Supervisor: [Prof. Jim Griffin](https://www.ucl.ac.uk/statistics/people/professor-jim-griffin)
@@ -35,7 +35,7 @@ Core Modules: Introduction to Data Science, applied bayesian methods, applied ma
 
 Project Title: Modeling elite athlete performance using Gaussian process ANOVA models (keywords: Gaussian process, MCMC, functional ANOVA)
 
-*Sep 2015 - Jun 2019*  
+*Sept 2015 - June 2019*  
 **BSc Statistics, GPA 89.1/100**  
 [School of Mathematics and Statistics, Shandong University (Weihai)](https://math.wh.sdu.edu.cn/English.htm), China  
 Supervisor: [Dr. Xiaoqiang Wang](https://math.wh.sdu.edu.cn/info/1085/6016.htm)
