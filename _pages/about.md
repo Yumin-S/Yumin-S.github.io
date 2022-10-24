@@ -42,7 +42,7 @@ Supervisor: [Dr. Xiaoqiang Wang](https://math.wh.sdu.edu.cn/info/1085/6016.htm)
 
 Core Modules: Real function theory, functional analysis, mathematical statistics, applied regression analysis, basic stochastic processes, time series, etc.
 
-Projects Involved: Hot spot analysis of copy number variation based on EM algorithms; An overview of SEMs with a Bayesian approach
+Projects Involved: Hot spot analysis of copy number variation based on EM algorithms; An overview of SEM with a Bayesian approach
 
 ## Programming Skills
 
