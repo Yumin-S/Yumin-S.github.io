@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for an opportunity to become a Ph.D. student doing statistics and/or machine learning. Research assistantship opportunities related to these fields are also being considered.
+I am seeking an opportunity to become a Ph.D. student doing probabilistic machine learning, especially in Gaussian Processes and deep learning and their overlap. Research assistant opportunities related to these fields are also being considered. Please feel free to contact me.
 
 My profile is as follows.
 
@@ -16,7 +16,7 @@ My profile is as follows.
 
 *June 2021 - June 2022*  
 **Big Data R&D Engineer**  
-Research Institute, [China UnionPay Data Services Co., Ltd](http://www.cupdata.com/index_en.aspx), China  
+Big Data and AI Lab, [China UnionPay Data Services Co., Ltd](http://www.cupdata.com/index_en.aspx), China  
 
 Job description:
 
